@@ -7,8 +7,9 @@ import Nav from './Nav/Nav';
 import config from './config';
 import './App.css';
 
+/*
 const bookmarks = [
-  /*
+  
    {
      id: 0,
      title: 'Google',
@@ -30,8 +31,9 @@ const bookmarks = [
      rating: '4',
      desc: 'brings together the world\'s largest community of developers.'
    }
-   */
+   
 ];
+*/
 
 class App extends Component {
   state = {
